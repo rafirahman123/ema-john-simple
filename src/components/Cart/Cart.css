@@ -1,0 +1,14 @@
+.cart-items{
+    text-align: center;
+}
+.grand-total{
+    color: blue;
+}
+.review-button{
+    background-color: goldenrod;
+    width: 150px ;
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
